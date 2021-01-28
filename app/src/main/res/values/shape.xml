@@ -15,7 +15,6 @@
 -->
 
 <resources>
-
     <!--Shape-->
 
     <!--Material allows theming of a component’s shape through the customization of corner -->
@@ -53,5 +52,6 @@
         <item name="cornerSize">0dp</item>
         <item name="cornerSizeTopLeft">50%</item>
     </style>
+
 
 </resources>

@@ -112,6 +112,6 @@
     <string name="text_appearance_button_label">Button</string>
     <string name="text_appearance_caption_label">Caption</string>
     <string name="text_appearance_overline_label">Overline</string>
-    <string name="equation_record">123*456*789</string>
-    <string name="solution">Who knows</string>
+    <string name="equation_record"></string>
+    <string name="solution">Answer</string>
 </resources>
